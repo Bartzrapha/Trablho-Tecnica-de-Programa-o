@@ -1,0 +1,16 @@
+[
+    {
+        "Nome": "Ailton",
+        "CPF": "87654367856",
+        "Matricula": "2345t",
+        "Endere\u00e7o": "Avenida",
+        "Telefone": "78"
+    },
+    {
+        "Nome": "Raphael",
+        "CPF": "1234567891234",
+        "Matricula": "45tre",
+        "Endere\u00e7o": "Rua",
+        "Telefone": "78"
+    }
+]
